@@ -7,5 +7,5 @@ CoreGui:SetCore("SendNotification", {
 
 CoreGui:SetCore("SendNotification", {
     Title = "Hey again.",
-    Text = "I'll add a lot more features afterwards. Bobat is retarded! remember that :)"
+    Text = "I'll add a lot more features afterwards. Ciao"
 })
