@@ -9,8 +9,8 @@ CoreGui:SetCore("SendNotification", {
     Title = "Hey again.",
     Text = "I'll add a lot more features afterwards. This COULD take a day or two depending on my schedule."
 })
-wait(5)
+wait(2)
 CoreGui:SetCore("SendNotification", {
-    Title = "Hey there!",
-    Text = "Everything works find except for walkspeed and item tp (already found a work around for that). changing the UI because current one is disgusting. Might take another day."
+    Title = "Hey there! may take another day",
+    Text = "Everything works find except for walkspeed and item tp (already found a work around for that). changing the UI."
 })
